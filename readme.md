@@ -4,7 +4,7 @@ Low level drive enumeration for bootable VHD clone creation, disk signature rewr
 
 *Nearly* an open-source alternative to Disk2VHD (https://learn.microsoft.com/en-us/sysinternals/downloads/disk2vhd).
 
-Basic usage options are:
+Must be run as Administrator. Basic usage options are:
 
 ```
 >wde2 -?
