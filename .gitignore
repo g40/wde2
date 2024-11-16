@@ -1,0 +1,7 @@
+.vs/ 
+x64/ 
+wde2/
+vault/
+.git.old/
+*.aps 
+*.exe
