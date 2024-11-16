@@ -21,5 +21,6 @@
     <None Include=".gitmodules" />
     <None Include="readme.md" />
     <None Include="makefile" />
+    <None Include="modules\rtl\rtl.vcxproj" />
   </ItemGroup>
 </Project>

@@ -8,7 +8,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wde2", "wde2.vcxproj", "{3B
 		{F56CB21C-EC27-49B1-B236-ADD5FCE3EA8F} = {F56CB21C-EC27-49B1-B236-ADD5FCE3EA8F}
 	EndProjectSection
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtl", "..\..\..\modules\rtl\rtl.vcxproj", "{F56CB21C-EC27-49B1-B236-ADD5FCE3EA8F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rtl", "modules\rtl\rtl.vcxproj", "{F56CB21C-EC27-49B1-B236-ADD5FCE3EA8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

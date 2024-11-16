@@ -37,7 +37,7 @@
       <WarningLevel>Level4</WarningLevel>
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;%(PreprocessorDefinitions)</PreprocessorDefinitions>
-      <AdditionalIncludeDirectories>r:\src\modules\rtl;</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>modules\rtl;</AdditionalIncludeDirectories>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
       <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
@@ -71,6 +71,7 @@ copy $(TargetPath) r:\apps\bin</Command>
     <None Include=".gitmodules" />
     <None Include="bcd_add.cmd" />
     <None Include="makefile" />
+    <None Include="modules\rtl\rtl.vcxproj" />
     <None Include="readme.md" />
   </ItemGroup>
   <ItemGroup>
